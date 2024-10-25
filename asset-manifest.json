@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/missing-you/static/css/main.967df5ed.css",
+    "main.js": "/missing-you/static/js/main.c8fcc8f9.js",
+    "index.html": "/missing-you/index.html",
+    "main.967df5ed.css.map": "/missing-you/static/css/main.967df5ed.css.map",
+    "main.c8fcc8f9.js.map": "/missing-you/static/js/main.c8fcc8f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.967df5ed.css",
+    "static/js/main.c8fcc8f9.js"
+  ]
+}
