@@ -42,7 +42,8 @@ const App: React.FC = () => {
       </button>
 
       {/* Audio Element for Background Music */}
-      <audio ref={audioRef} src="/tranbonho.mp3" loop />
+
+      <audio ref={audioRef}  src={`${process.env.PUBLIC_URL}/tranbonho.mp3`} loop />
 
       {popups.map((popup, index) => (
         <Popup key={index} x={popup.x} y={popup.y} />
