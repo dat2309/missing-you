@@ -1,6 +1,7 @@
 {
   "name": "missing-you",
   "version": "0.1.0",
+  "homepage": "https://dat2309.github.io/missing-you/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
@@ -41,6 +42,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^6.2.0",
     "tailwindcss": "^3.4.14"
   }
 }
